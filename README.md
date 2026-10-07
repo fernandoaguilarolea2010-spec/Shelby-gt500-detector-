@@ -25,7 +25,5 @@ Train an autonomous truck to recognize high-performance vehicles like the Shelby
 - [ ] NVIDIA Inception application
 
 ## 👨‍💻 Author
-Fernando Aguilar Olea - 15yo developer from Tijuana, MX
-Goal: NVIDIA Software Engineer | Autonomous Trucking
-
-Built for Shelby Baja dream.
+Baja AI Developer - Focus: Autonomous Trucking Vision
+Goal: NVIDIA Inception
