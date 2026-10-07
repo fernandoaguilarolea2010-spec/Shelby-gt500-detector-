@@ -1,10 +1,10 @@
 # Shelby GT500 Detector - Autonomous Trucking Vision
 
 AI-powered vehicle detection system focused on 2007 Ford Mustang Shelby GT500.
-Part of my autonomous trucking project from Tijuana to NVIDIA.
+Part of an autonomous trucking vision project built from Baja.
 
 ## 🚀 Project Goal
-Train an autonomous truck to recognize high-performance vehicles like the Shelby GT500 to improve safety and decision-making on highways.
+Train an autonomous system to recognize high-performance vehicles like the Shelby GT500 to improve safety and decision-making on highways.
 
 ## 🛠️ Tech Stack
 - Python
@@ -14,7 +14,7 @@ Train an autonomous truck to recognize high-performance vehicles like the Shelby
 
 ## 📸 Dataset
 - Custom dataset: Shelby GT500 2007 (white/blue)
-- Street images from Tijuana, Baja California
+- Street images from Baja California
 - Future: trailer + brake lights detection
 
 ## 🎯 Roadmap
@@ -25,5 +25,7 @@ Train an autonomous truck to recognize high-performance vehicles like the Shelby
 - [ ] NVIDIA Inception application
 
 ## 👨‍💻 Author
-Baja AI Developer - Focus: Autonomous Trucking Vision
-Goal: NVIDIA Inception
+Baja-based AI Developer | Focus: Autonomous Trucking Vision
+Goal: NVIDIA Inception Program
+
+Built for Shelby Baja dream.
